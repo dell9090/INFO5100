@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="topbar_rightbtn_classroom_id" type="id"/>
+
+    <item name="topbar_rightbtn_homework_id" type="id"/>
+
+    <item name="topbar_rightbtn_mainpage_id" type="id"/>
+
+    <item name="topbar_rightbtn_rank_id" type="id"/>
+</resources>
