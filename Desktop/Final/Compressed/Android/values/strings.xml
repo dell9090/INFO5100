@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">课堂小助手</string>
+
+    <string name="action_settings">action_settings</string>
+    <string name="show">show</string>
+    <string name="hide">hide</string>
+    <string name="send">send</string>
+    <string name="text_hint">input text here</string>
+    <string name="empty_prompt">please input text</string>
+    <string name="ifagree">agree</string>
+    <string name="delete">delete</string>
+    <string name="topbar_rightbtn_classroom">choose slide</string>
+    <string name="topbar_rightbtn_homework">homeworks</string>
+    <string name="topbar_rightbtn_mainpage">courses</string>
+    <string name="topbar_rightbtn_rank">courses</string>
+
+
+
+    <string name="account">Please input account</string>
+    <string name="password">Please enter your password</string>
+    <string name="check_password">remember</string>
+    <string name="check_login">auto login</string>
+    <string name="login">Login</string>
+    <string name="loading">Loading...</string>
+
+
+    <string name="old_password">old password</string>
+    <string name="new_password">new password</string>
+    <string name="renew_password">reenter new password</string>
+
+</resources>
